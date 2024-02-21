@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* //navbar css */
+.navbar {
+  box-shadow: 0 8px -6px gray;
+  --webkit-box-shadow: 0 8px -6px gray;
+  border-bottom: 0.4px solid gray !important;
+}
+
+.active {
+  border-bottom: 3px solid red;
+}
